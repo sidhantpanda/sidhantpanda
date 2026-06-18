@@ -11,7 +11,7 @@ I am a Fullstack Developer based out of Amsterdam, Netherlands. My work and side
     - SQL - MySQL, PostgreSQL
     - NoSQL - Mongo, AWS DynamoDB, Azure Cosmos
 
-Find details about my projects here at [[panda.fyi/projects](https://panda.fyi/projects)](https://panda.fyi/work)
+Find details about my projects here at [panda.fyi/projects](https://panda.fyi/projects)
 
 <!--
 **sidhantpanda/sidhantpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
